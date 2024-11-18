@@ -1,4 +1,4 @@
-# CS4347-Deliverable1
+# CS4347-Deliverable II
 ## WeFiT: A One-Stop-Shop Fitness and Nutrition Tracking System!
 
 - Manasi Vipat
